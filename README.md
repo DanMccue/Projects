@@ -44,7 +44,7 @@ Data Preprocessing
 
 
 
-Model Development:
+Model Development
 
 - Implemented XGBoost and Lasso regression models
 

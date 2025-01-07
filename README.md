@@ -1,4 +1,7 @@
-NHL Player Salary Analysis Project
+Check out some of my other work in my 'AdditionalProjects' repository: https://github.com/DanMccue/AdditionalProjects
+
+
+# NHL Player Salary Analysis Project
 
 
 

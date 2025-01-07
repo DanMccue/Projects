@@ -3,7 +3,7 @@ Check out some of my other work in my 'AdditionalProjects' repository: https://g
 
 # NHL Player Salary Analysis Project
 
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/0242df09-ef41-464b-817d-15209c16d302" /> <img width="450" alt="image" src="https://github.com/user-attachments/assets/6bba4925-861d-428c-90cc-697bc8af18fc" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/0242df09-ef41-464b-817d-15209c16d302" /> <img width="400" alt="image" src="https://github.com/user-attachments/assets/6bba4925-861d-428c-90cc-697bc8af18fc" />
 
 
 

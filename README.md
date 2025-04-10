@@ -1,3 +1,13 @@
+👋 Hi there! I’m a Computer Science and Economics student at Northeastern University, passionate about leveraging data science, machine learning, and software engineering to build impactful solutions. My interests include data engineering, predictive modeling, and software development, where I explore creative approaches to solving problems.
+
+Projects & Highlights:
+- NHL Salary Prediction Model: Developed a predictive model using Python, SQL, and XGBoost to analyze over 800 player datasets. Focused on data cleaning, feature engineering, and visualization to deliver actionable insights about salary forecasting.
+- Interactive Spelling Bee Game: Designed and implemented a web-based spelling bee game using Python and Flask. The project combines natural language processing and gamification principles to create an engaging and educational user experience.
+
+I love tackling complex challenges with scalable, data-driven solutions and enjoy collaborating on projects that combine technical expertise with creativity. Feel free to connect or explore my repositories for more details on my work!
+
+
+
 Check out some of my other work in my 'AdditionalProjects' repository: https://github.com/DanMccue/AdditionalProjects
 
 
